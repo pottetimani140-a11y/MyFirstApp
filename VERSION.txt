@@ -1,0 +1,5 @@
+Project Name: MyFirstApp
+Version: v1.0.0
+Build Number: 1
+Release Type: Initial Release
+Status: Stable
